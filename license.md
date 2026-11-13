@@ -259,6 +259,6 @@ footprint first.
 
 ---
 
-*text-to-speech-for-windows · Updated 2026-11-12 · Shared under the MIT License*
+*text-to-speech-for-windows · Updated 2026-11-13 · Shared under the MIT License*
 
-<!-- rev 2026-11-12 -->
+<!-- rev 2026-11-13 -->
